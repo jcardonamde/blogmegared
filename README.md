@@ -12,5 +12,6 @@ En este curso vemos de todo:
 * Trucos muy locos del profesor
 * Las personalidades múltiples de freddier
 * Creado por JCC
+* Incluye en ejemplos en diferentes SO
 
 Recordemos que este **readme.md** esta creado a modo de ejemplo ilustrativo del desarrollo de este curso. El cual podran consultar [aquí cuando lo deseen](http://platzi.com/cursos/git-github/ "aquí cuando lo deseen").
