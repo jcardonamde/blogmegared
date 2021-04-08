@@ -1,5 +1,5 @@
 # blogmegared 💚
-Es un blog creada para efectos de aprendizaje de Git y GitHub
+Es un blog creado para efectos de aprendizaje de Git y GitHub
 
 > En este curso me he aventurado a aprender sobre todo este mundo de la programación. La verdad he logrado entender conceptos que para mi, anteriormente era como si me hablaran en otro idioma.
 
